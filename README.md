@@ -42,4 +42,4 @@ Expense Tracker is a React Native mobile application that helps users manage and
 
 2. Use the Expo Go app on your mobile device to scan the QR code from the terminal or the Expo Dev Tools interface.
 
-3. The app should now be running on your device.
+3. The app should now be running on your device..
